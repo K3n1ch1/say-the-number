@@ -10,4 +10,4 @@
 
 > CODER: Kenichi
 
-* ATTENTION: The idea was pick from: [idea-origin(in )](https://devaprender.com/5-ideias-de-projetos-python-para-iniciantes/)
+* ATTENTION: The idea was pick from: [idea-origin](https://devaprender.com/5-ideias-de-projetos-python-para-iniciantes/)
