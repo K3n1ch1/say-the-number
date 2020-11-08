@@ -9,24 +9,24 @@ def loop():
 
     while True:
         try:
-            answer = int(input("Digite um número de 10 a 100: "))
+            answer = int(input("Type a number between 10 and 100: "))
         except ValueError and TypeError or TypeError or ValueError:
             print('Por favor digite um número inteiro')
         else:
             if answer == n:
-                print("Acertou o número")
-                cont = str(input("Gostaria de repetir o programa?"))
+                print("Correct Answer! Nice work")
+                cont = str(input("Would you like to retry? "))
                 
                 if cont in s:
                     return loop()
                 elif cont in n:
-                    print('Adeus')
+                    print('See you next time')
                     break
                 else: 
-                    print("Erro no sistema")
+                    print("System ERROR")
             elif answer < n:
-                print("Maior")
+                print("Too Low")
             elif answer > n:
-                print("Menor")
+                print("Too High")
 
 loop()
