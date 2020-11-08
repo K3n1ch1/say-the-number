@@ -7,7 +7,11 @@
 * System will compare N and User Input with the following operators: ==, >, <
 * System ask if user want to retry
 
+- STATUS: Finished
+
 
 > CODER: Kenichi
+
+![Perfil](https://avatars3.githubusercontent.com/u/68565303?s=460&u=6fbbcebbcc411405d6fe38f0885db0c704d091e7&v=4)
 
 * ATTENTION: The idea was pick from: [idea-origin](https://devaprender.com/5-ideias-de-projetos-python-para-iniciantes/)
