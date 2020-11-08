@@ -1,6 +1,6 @@
 import random as r
 
-def loop():
+def Loop():
     n = r.randint(10,100)
 
     # Variables
@@ -18,7 +18,7 @@ def loop():
                 cont = str(input("Would you like to retry? "))
                 
                 if cont in s:
-                    return loop()
+                    return Loop()
                 elif cont in n:
                     print('See you next time')
                     break
@@ -29,4 +29,4 @@ def loop():
             elif answer > n:
                 print("Too High")
 
-loop()
+Loop()
