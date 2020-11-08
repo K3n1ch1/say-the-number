@@ -2,12 +2,16 @@
 
 ---
 ## STEPS
-* System creates variable N (betweeen 10 and 100)
+* System creates variable NUM (betweeen 10 and 100)
 * User inputs an value between 10 and 100
-* System will compare N and User Input with the following operators: ==, >, <
+* System will compare NUM and User Input with the following operators: ==, >, <
 * System ask if user want to retry
 
 - STATUS: Finished (Tell me if you find one bug or you finded a way to make the code better)
+
+### LOG 1.50
+
+- Correceted same variables names
 
 
 > CODER: Kenichi

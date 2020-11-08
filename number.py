@@ -1,7 +1,7 @@
 import random as r
 
 def Loop():
-    n = r.randint(10,100)
+    num = r.randint(10,100)
 
     # Variables
     s = ['S', 's', 'Sim', 'sim', 'SIM', 'Y', 'y', 'Yes', 'yes', 'YES']
@@ -13,7 +13,7 @@ def Loop():
         except ValueError and TypeError or TypeError or ValueError:
             print('Por favor digite um número inteiro')
         else:
-            if answer == n:
+            if answer == num:
                 print("Correct Answer! Nice work")
                 cont = str(input("Would you like to retry? "))
                 
@@ -24,9 +24,9 @@ def Loop():
                     break
                 else: 
                     print("System ERROR")
-            elif answer < n:
+            elif answer < num:
                 print("Too Low")
-            elif answer > n:
+            elif answer > num:
                 print("Too High")
 
 Loop()
