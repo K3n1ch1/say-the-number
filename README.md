@@ -7,7 +7,7 @@
 * System will compare N and User Input with the following operators: ==, >, <
 * System ask if user want to retry
 
-- STATUS: Finished
+- STATUS: Finished (Tell me if you find one bug or you finded a way to make the code better)
 
 
 > CODER: Kenichi
