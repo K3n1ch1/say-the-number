@@ -1,8 +1,13 @@
 # RANDOM NUMBER
 
 ---
-## OBJECTIVE
-CREATE A SYSTEM WHERE, THE VARIABLE N GENERATES ONE NUMBER BETWEEN 10 TO 100 (WHITOUT PRINT IT), AND COMPARE N WITH THE USER INPUT, IF LOWEST, IT ILL SAY, IF BIGGEST, IT ILL ALSO SAY
+## STEPS
+* System creates variable N (betweeen 10 and 100)
+* User inputs an value between 10 and 100
+* System will compare N and User Input with the following operators: ==, >, <
+* System ask if user want to retry
 
 
-> Kenichi
+> CODER: Kenichi
+
+* ATTENTION: The idea was pick from: [idea-origin(in )](https://devaprender.com/5-ideias-de-projetos-python-para-iniciantes/)
